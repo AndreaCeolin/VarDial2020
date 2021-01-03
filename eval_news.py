@@ -7,7 +7,7 @@ dev1 = open('data/dev-source.txt').readlines()
 
 training_sets = [training]
 
-evaluation = open('data/dev-target.txt').readlines()
+evaluation = open('data/dev-source.txt').readlines()
 
 
 '''Prepare training set'''
@@ -26,7 +26,6 @@ for line in evaluation:
     sample, label = line.split('\t')
     validationDialectLabels.append(label.rstrip().rstrip('\u202c'))
     validationSamples.append(sample.replace('$NE$', '').replace('FOTO', '').replace('VIDEO','').replace('LIVE','').translate(line.maketrans('', '', string.punctuation+'|-0123456789”„…')))
-
 
 
 '''Data matrices'''
