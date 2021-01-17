@@ -4,6 +4,8 @@ This folder contains the material developed for the RDI shared task at VarDial 2
 
 > Ceolin, A. & Zhang, H. (2020). *Discriminating between standard Romanian and Moldavian tweets using filtered character ngrams*. In Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects, 265-272.
 
+Here is a list of the files.
+
 1. **data**: This folder contains the training and development data of the shared task, which are presented and described in Butnaru and Ionescu (2019) and Găman et al. (2020).
 
 2. **models.py**: This file contains the Naive Bayes and SVM models developed for the task.
