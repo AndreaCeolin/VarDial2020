@@ -16,7 +16,7 @@ Here is a list of the files.
 
 5. **cnn.ipynb**: This Jupyter Notebook contains the CNN developed for the task.
 
-6. **model_saved**: This file contains the parameters of the CNN.
+6. **trained_cnn_model**: This file contains the parameters of the CNN.
 
 7. **CeolinZhang2020.pdf**: This is the proceedings paper that describes the task and our contribution.
 
