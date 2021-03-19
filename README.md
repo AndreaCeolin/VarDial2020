@@ -18,7 +18,7 @@ Here is a list of the files.
 
 6. **trained_cnn_model**: This file contains the parameters of the CNN.
 
-7. **CeolinZhang2020.pdf**: This is the proceedings paper that describes the task and our contribution.
+7. **CeolinZhang2020.pdf**: This is the paper that describes the task and our contribution.
 
 Note that some of the numbers produced by the script are greater than those contained in the proceedings paper. This is mostly due to some bugs in the TFIDF transformation that were fixed only after the submission. However, this only affected the models that were not used to participate in the task.
 
