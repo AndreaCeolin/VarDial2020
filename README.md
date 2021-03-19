@@ -24,9 +24,9 @@ Note that some of the numbers produced by the script are greater than those cont
 
 References:
 
-> Butnaru, A. M., & Ionescu, R. T. (2019). MOROCO: The Moldavian and Romanian dialectal corpus. arXiv preprint arXiv:1901.06543.
+> Butnaru, A. M., & Ionescu, R. T. (2019). MOROCO: The Moldavian and Romanian dialectal corpus. In Proceedings of ACL, 688.698.
 
-> Gaman, M., Hovy, D., Ionescu, R. T., Jauhiainen, H., Jauhiainen, T., Linden, K., Ljubešić, N., Partanen, N., Purschke, C., Scherrer, Y. and Zampieri M.  (2020). A report on the VarDial evaluation campaign 2020. In Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects. International Committee on Computational Linguistics.
+> Gaman, M., Hovy, D., Ionescu, R. T., Jauhiainen, H., Jauhiainen, T., Linden, K., Ljubešić, N., Partanen, N., Purschke, C., Scherrer, Y. and Zampieri M.  (2020). A report on the VarDial evaluation campaign 2020. In Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial), 1-14.
 
 
 
