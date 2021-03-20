@@ -8,7 +8,7 @@ The code contained in this repository is licensed under MIT license. For the mat
 
 Here is a list of the files.
 
-1. **data**: This folder contains the training and development data of the shared task, which are presented and described in Butnaru and Ionescu (2019) and Găman et al. (2020).
+1. **data**: This folder contains the training and development data of the shared task, which are presented and described in Butnaru and Ionescu (2019), Găman and Ionescu (2020), and Găman et al. (2020).
 
 2. **models.py**: This file contains the Naive Bayes and SVM models developed for the task.
 
@@ -28,9 +28,9 @@ References:
 
 > Butnaru, A. M., & Ionescu, R. T. (2019). MOROCO: The Moldavian and Romanian dialectal corpus. In Proceedings of ACL, 688-698.
 
-> Gaman, M. & Ionescu, R. T. (2020). The Unreasonable Effectiveness of Machine Learning in Moldavian versus Romanian Dialect Identification. arXiv:2007.15700
+> Găman, M. & Ionescu, R. T. (2020). The Unreasonable Effectiveness of Machine Learning in Moldavian versus Romanian Dialect Identification. arXiv:2007.15700
 
-> Gaman, M., Hovy, D., Ionescu, R. T., Jauhiainen, H., Jauhiainen, T., Linden, K., Ljubešić, N., Partanen, N., Purschke, C., Scherrer, Y. and Zampieri M.  (2020). A report on the VarDial evaluation campaign 2020. In Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial), 1-14.
+> Găman, M., Hovy, D., Ionescu, R. T., Jauhiainen, H., Jauhiainen, T., Linden, K., Ljubešić, N., Partanen, N., Purschke, C., Scherrer, Y. and Zampieri M.  (2020). A report on the VarDial evaluation campaign 2020. In Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial), 1-14.
 
 
 
